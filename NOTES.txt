@@ -1,0 +1,19 @@
+**************
+Udemy Tutorial
+https://www.udemy.com/graphql-by-example/learn/v4/t/lecture/10138388?start=0
+
+
+FINISHED
+
+
+### LOGIN
+bob@goobook.co
+bob123
+
+
+###
+npm view apollo-boost dependencies
+
+
+###
+TODO: Add to Github // Hot to delete local git repository?
